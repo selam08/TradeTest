@@ -16,3 +16,4 @@ def getRate(coin):
         return(data['price_usd'])
 
 getCoins()
+ 
